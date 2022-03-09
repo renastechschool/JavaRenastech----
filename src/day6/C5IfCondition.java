@@ -15,7 +15,7 @@ public class C5IfCondition {
             System.out.println("Salman Khan");
         */
         int i = 10;
-
+        double f = 7.99999999;
        /* if(i == ++i){
             System.out.println("Hello");
             System.out.println("Chao");
